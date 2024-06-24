@@ -25,4 +25,8 @@ The frontend is built with React and integrates with Chat Engine for real-time m
 * App.css: Styling for the application.
 * index.html: Main HTML file.
 * vite.config.js: Vite configuration file.
-* package.json: Lists the frontend dependencies.
+* package.json: Lists the frontend dependencies
+#### Screenshot
+![Capture d’écran (630)](https://github.com/AsmaBenMiled/ChatApp/assets/95534208/99a625aa-ea78-4e3a-b088-7289ba662119)
+
+![Capture d’écran (630)](https://github.com/AsmaBenMiled/ChatApp/assets/95534208/09be01be-a2d6-4125-a6bb-13958655d5a9)
