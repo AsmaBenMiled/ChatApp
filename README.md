@@ -28,6 +28,9 @@ The frontend is built with React and integrates with Chat Engine for real-time m
 * package.json: Lists the frontend dependencies
 
   
-#### Screenshot
-![Capture d’écran (630)](https://github.com/AsmaBenMiled/ChatApp/assets/95534208/99a625aa-ea78-4e3a-b088-7289ba662119)
+#### Screenshots
 
+
+![Capture d’écran (631)](https://github.com/AsmaBenMiled/ChatApp/assets/95534208/86bc7ec7-6211-41c3-9cd4-f1b728fff4f6)
+
+![Capture d’écran (632)](https://github.com/AsmaBenMiled/ChatApp/assets/95534208/13d45a0d-340a-470d-aff4-36bb9ac17e51)
